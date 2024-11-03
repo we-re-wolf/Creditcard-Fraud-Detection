@@ -130,7 +130,7 @@ The frontend consists of three primary files in the `/frontend` folder:
 
 #### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/we-re-wolf/Creditcard-Fraud-Detection
 cd project-directory
 ```
 
